@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Pedro Souza,
 
-<!--
-**Pzdev9/Pzdev9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com foco crescente em **Segurança Cibernética**. Estou construindo minha base em segurança da informação e aprendendo sobre:
 
-Here are some ideas to get you started:
+- 🔐 Proteção de dados e boas práticas de segurança
+- 🕵️ Análise de vulnerabilidades
+- 💻 Fundamentos de redes e sistemas operacionais
+- 🧠 Raciocínio lógico e programação com Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou em busca de oportunidades para aplicar meus conhecimentos em projetos práticos e crescer na área de cibersegurança. Estou sempre estudando, praticando e disposto a aprender mais.
+
+---
+
+### Em aprendizado:
+- Fundamentos de segurança da informação
+- Python para automação e segurança
+- Estrutura de redes e protocolos
+
+### Objetivo:
+Me tornar um profissional de segurança cibernética comprometido com a proteção de dados e a integridade de sistemas.
+
+---
+
+📫 Entre em contato: pedrodiassouza885@gmail.com / www.linkedin.com/in/Pedro-Souza9
+
