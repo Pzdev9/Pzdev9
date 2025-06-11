@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Pedro Souza,
+👨🏻‍💻 Eu sou Pedro Souza.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e com foco crescente em **Segurança Cibernética**. Estou construindo minha base em segurança da informação e aprendendo sobre:
 
